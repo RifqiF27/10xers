@@ -144,8 +144,11 @@
   ```json
   {
     "name": "string",
+    "color": "string",
+    "price": "integer",
     "description": "string",
-    "price": "number"
+    "stock": "integer",
+    "imgUrl": "string"
   }
   ```
 - **Headers:**
