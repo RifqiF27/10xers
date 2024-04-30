@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Iphone 15 Pro Max",
+        "color": "Titanium",
+        "stock": 15,
+        "description": "iPhone 15 Pro Max. Lahir dari titanium dan dilengkapi chip A17 Pro terobosan, tombol Tindakan yang dapat disesuaikan, dan sistem kamera iPhone paling andal yang pernah ada.",
+        "imgUrl": "https://cdn.eraspace.com/media/catalog/product/a/p/apple_iphone_15_pro_max_natural_titanium_1_1_5.jpg",
+        "price": 19699999,
+        "UserId": 1
+    },
+    {
+        "name": "Iphone 15 Pro",
+        "color": "Titanium",
+        "stock": 10,
+        "description": "iPhone 15 Pro. Lahir dari titanium dan dilengkapi chip A17 Pro terobosan, tombol Tindakan yang dapat disesuaikan, dan sistem kamera Pro yang lebih serbaguna.",
+        "imgUrl": "https://cdn.eraspace.com/media/catalog/product/a/p/apple_iphone_15_pro_natural_titanium_1_6.jpg",
+        "price": 18799999,
+        "UserId": 1
+
+    },
+    {
+        "name": "Iphone 14 Pro Max",
+        "color": "Deep Purple",
+        "stock": 10,
+        "description": "iPhone 14 Pro Max. Memotret detail menakjubkan dengan kamera Utama 48 MP. Nikmati iPhone dalam cara yang sepenuhnya baru dengan layar yang Selalu Aktif dan Dynamic Island. Deteksi Tabrakan, sebuah fitur keselamatan baru, memanggil bantuan saat Anda tak bisa.",
+        "imgUrl": "https://cdn.eraspace.com/media/catalog/product/i/p/iphone_14_pro_max_deep_purple_1_6.jpg",
+        "price": 16699999,
+        "UserId": 1
+    },
+    {
+        "name": "Iphone 14",
+        "color": "Blue",
+        "stock": 10,
+        "description": "iPhone 14. Dengan sistem kamera ganda paling hebat di iPhone. Ambil foto yang memukau dalam pencahayaan rendah maupun terang. Deteksi Tabrakan,1 sebuah fitur keselamatan baru, memanggil bantuan saat Anda tak bisa.",
+        "imgUrl": "https://cdn.eraspace.com/media/catalog/product/i/p/iphone_14_blue_1_3_1_1.jpg",
+        "price": 15899999,
+        "UserId": 1
+    },
+    {
+        "name": "Iphone 13",
+        "color": "Pink",
+        "stock": 15,
+        "description": "iPhone 13. Sistem kamera ganda paling canggih yang pernah ada di iPhone. Chip A15 Bionic yang secepat kilat. Lompatan besar dalam kekuatan baterai. Desain kokoh. Dan layar Super Retina XDR yang lebih cerah.",
+        "imgUrl": "https://cdn.eraspace.com/media/catalog/product/i/p/iphone_13_pink_1_3.jpg",
+        "price": 12699999,
+        "UserId": 1
+    },
+    {
+        "name": "Iphone 12",
+        "color": "Purple",
+        "stock": 15,
+        "description": "iPhone 12. Layar Super Retina XDR 6,1 inci yang begitu cerah.1 Ceramic Shield dengan ketahanan jatuh empat kali lebih baik.2 Fotografi pencahayaan rendah yang menakjubkan dengan mode Malam di semua kamera. Mampu merekam, mengedit, dan memutar video sekelas sinema dengan Dolby Vision. Chip A14 Bionic yang andal. Dan aksesori MagSafe baru untuk kemudahan pemasangan dan pengisian daya nirkabel yang lebih cepat.3 Saatnya bersenang-senang.",
+        "imgUrl": "https://cdn.eraspace.com/media/catalog/product/i/p/iphone_12_purple_1_2_1_1.jpeg",
+        "price": 10399999,
+        "UserId": 1
+    }
+]
